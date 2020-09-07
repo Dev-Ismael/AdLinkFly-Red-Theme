@@ -26,8 +26,8 @@ $this->assign('content_title', get_option('site_name'));
     <div class="container">
         <div class="intro-text">
 
-            <h1 class="custom-animation-bottom">Your Easy Way To ...</h1>
-            <h1 class="custom-animation-left"> EARN MONEY </h1>
+            <h1 class="custom-animation-bottom"> Share4Cash.Club</h1>
+            <h1 class="custom-animation-left"> YOU CAN EARN MONEY... </h1>
             <div class="row custom-animation-top">
                 <div class="col-sm-8 col-sm-offset-2">
                     <?php if (get_option('home_shortening') == 'yes') : ?>
@@ -47,7 +47,7 @@ $this->assign('content_title', get_option('site_name'));
             <div class="col-12 text-center">
                 <h1 class="title custom-animation-top ">Shorten & Get Paid In 3 Easy Steps!</h1>
                 <div class="content-title-underline"></div>       
-                <p class="custom-animation-bottom">Urlshort.it makes you shorten and track your links. In addition, it rewards you for every single link at the same time.</p><br><br>
+                <p class="custom-animation-bottom">Share4Cash.Club makes you shorten and track your links. In addition, it rewards you for every single link at the same time.</p><br><br>
             </div>
             <div class="col-md-4">
                 <div class="features custom-animation-top ">
@@ -56,7 +56,7 @@ $this->assign('content_title', get_option('site_name'));
                     </div>
                     <div class="more">
                         <h4>1 - Create an Account</h4>
-                        <p>Create your Urlshort.it account, so you can get all the great features for free!</p>
+                        <p>Create your Share4Cash.Club account, so you can get all the great features for free!</p>
                     </div>
                 </div>
             </div>

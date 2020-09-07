@@ -84,7 +84,7 @@
         .login-box-body, .register-box-body {
             background: transparent !important;
             width: 90%;
-            border-right: 3px solid #016d79;
+            border-right: 3px solid #c50000;
             padding-right: 50px;
         }
         .btn.btn-flat {
@@ -102,7 +102,7 @@
             margin-top: 40px
         }
         .btn.btn-flat:hover{
-            background-color: #016d79;
+            background-color: #c50000;
             outline: none;
             border: none
         }
@@ -132,7 +132,7 @@
             text-decoration: underline
         }
         .login-logo a{
-            color: #016d79 !important;
+            color: #c50000 !important;
             text-decoration: none
         }
         p {
@@ -209,7 +209,7 @@
         width: 40px;
         height: 40px;
         border-radius: 100%;
-        background-color: #016d79;
+        background-color: #c50000;
         left: calc(50% - 25px);
         top: 40px;
         border: 5px solid #b4b2b2;
@@ -219,7 +219,7 @@
         z-index: -100;
         height: 55px;
         width: 50px;
-        background-color: #016d79;
+        background-color: #c50000;
         }
         .rocket .fin-left {
         left: -30px;
@@ -471,7 +471,7 @@
         width: 40px;
         height: 40px;
         border-radius: 100%;
-        background-color: #016d79;
+        background-color: #c50000;
         left: calc(50% - 25px);
         top: 40px;
         border: 5px solid #b4b2b2;
@@ -481,7 +481,7 @@
         z-index: -100;
         height: 55px;
         width: 50px;
-        background-color: #016d79;
+        background-color: #c50000;
         }
         .rocket .fin-left {
         left: -30px;

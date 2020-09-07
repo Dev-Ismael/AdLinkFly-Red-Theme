@@ -105,7 +105,7 @@
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
         color: #fff;
         background: #c5000073;
-        border-left-color: #3c8dbc;
+        border-left-color: #c50000;
     }
     .skin-blue .sidebar-menu>li>.treeview-menu {
         margin: 0 1px;
@@ -197,7 +197,7 @@
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
         color: #404040;
         background: #ffffff73;
-        /* border-left-color: #3c8dbc; */
+        /* border-left-color: #c50000; */
     }
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a{
         color: #c50000;

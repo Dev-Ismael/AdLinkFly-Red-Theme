@@ -101,8 +101,8 @@ $this->assign('og_image', $link->image);
 
 <div class="top-info"> 
     <div>
-        <h4>What is Urlshort.it ?</h4>
-        <p>Urlshort.it is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links. Register now!</p>
+        <h4>What is Share4Cash.Club ?</h4>
+        <p>Share4Cash.Club is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links. Register now!</p>
     </div>
     <div>
         <h4>Why I'm in this page ?</h4>
@@ -240,7 +240,7 @@ $this->Form->button(__('Submit'), [
     ===================================================================== */
     $(function () {
     
-        $("body footer").prepend('<div class="container">  <div class="top-info">  <div>   <h4>What is Urlshort.it ?</h4>   <p>Urlshort.it is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links. Register now!</p></div><div>   <h4>Why Im in this page ?</h4>    <p>Its because a Cuts URL user is using our website to short the link of your destination.</p> </div><div><h4>How can I skip this page and go to the destination link ?</h4><p>Please check the reCaptcha below and click Continue , after this wait 10 seconds on the second page and click "Get Link"</p> </div> <div><h4>Why dont you join us and start making money ?</h4><p>Click here , and create your account for free !</p></div> </div>    </div>');
+        $("body footer").prepend('<div class="container">  <div class="top-info">  <div>   <h4>What is Share4Cash.Club ?</h4>   <p>Share4Cash.Club is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links. Register now!</p></div><div>   <h4>Why Im in this page ?</h4>    <p>Its because a Cuts URL user is using our website to short the link of your destination.</p> </div><div><h4>How can I skip this page and go to the destination link ?</h4><p>Please check the reCaptcha below and click Continue , after this wait 10 seconds on the second page and click "Get Link"</p> </div> <div><h4>Why dont you join us and start making money ?</h4><p>Click here , and create your account for free !</p></div> </div>    </div>');
 
     });
 </script>

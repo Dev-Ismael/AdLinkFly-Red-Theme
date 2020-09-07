@@ -6,7 +6,7 @@
 
 <?= $this->Assets->favicon() ?>
 
-<meta name="theme-color" content="#016d79" />
+<meta name="theme-color" content="#c50000" />
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -52,7 +52,7 @@ body{
     overflow-x: hidden
   }
   h1,h2,h3,h4{
-    color: #016d79 !important;
+    color: #c50000 !important;
     padding-top: 20px;
     padding-bottom: 20px;
   }
@@ -60,7 +60,7 @@ body{
   .content-title-underline {
     width: 30px;
     height: 3px;
-    background-color:  #016d79 !important;
+    background-color:  #c50000 !important;
     margin: 0 auto;
     margin-bottom: 40px;
 }
@@ -122,7 +122,7 @@ body{
     transition: all 0.35s;
   }
   .navbar-default .navbar-header .navbar-brand {
-    color: #016d79;
+    color: #c50000;
     font-weight: 700;
     text-transform: uppercase;
   }
@@ -133,7 +133,7 @@ body{
   .navbar-default .navbar-header .navbar-toggle {
 
     text-transform: uppercase;
-    background-color: #016d79;
+    background-color: #c50000;
     border-radius: 20px;
     padding: 10px 15px;
   }
@@ -146,11 +146,11 @@ body{
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
-    color: #016d79;
+    color: #c50000;
   }
   .navbar-default .nav > li.active > a,
   .navbar-default .nav > li.active > a:focus {
-    color: #016d79 !important;
+    color: #c50000 !important;
     background-color: transparent;
   }
   .navbar-default .nav > li.active > a:hover,
@@ -185,7 +185,7 @@ body{
       border-color: rgba(34, 34, 34, 0.05);
     }
     .navbar-default.affix .navbar-header .navbar-brand {
-      color: #016d79;
+      color: #c50000;
       font-size: 14px;
     }
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -198,12 +198,12 @@ body{
     }
     .navbar-default.affix .nav > li > a:hover,
     .navbar-default.affix .nav > li > a:focus:hover {
-      color: #016d79;
+      color: #c50000;
     }
   }
   @media (min-width: 768px){   
       .navbar-default.affix .navbar-header .navbar-brand {
-          color: #016d79;
+          color: #c50000;
           font-size: 20px;
       }
   }
@@ -234,7 +234,7 @@ body{
   @media (max-width: 768px){
 
     #mainNav{
-      background-color: #016d79;
+      background-color: #c50000;
     }
     .navbar-default{
       border: none;
@@ -267,7 +267,7 @@ body{
     border-radius: 20px;
   }
   .affix .navbar-nav>li:nth-of-type(4) a{
-    background-color: #016d79;
+    background-color: #c50000;
     padding: 10px 20px;
     margin-top: 10px;
     color: #fff;
@@ -299,7 +299,7 @@ body{
       }
       .affix .navbar-nav>li:nth-of-type(4) a,
       .affix-top .navbar-nav>li:nth-of-type(4) a{
-        background-color: #016d79;
+        background-color: #c50000;
         color: #fff;
       }
 
@@ -491,7 +491,7 @@ body{
     font-weight: 600 !important;
     line-height: 42px !important;
     width: 164.41px !important;
-    background-color: #016d79 !important;
+    background-color: #c50000 !important;
     }
     .shorten #shorten button:hover{
       opacity: 1;
@@ -499,7 +499,6 @@ body{
     }
     header .intro-text h1{
       color: #fff !important;
-      font-family: cursive;
       margin-top: -35px
     }
     @media (max-width:767px){
@@ -608,7 +607,7 @@ body{
     color: #fff;
     text-align: center;
     border-radius: 50%;
-    background-color: #016d79 ;
+    background-color: #c50000 ;
     font-size: 22px;
     line-height: 22px;
     padding: 4px 15px;
@@ -704,7 +703,7 @@ body{
     background-color: rgb(255, 255, 255) !important
   }
   a, a.active, a:active, a:focus, a:hover {
-    color: #016d79;
+    color: #c50000;
     outline: 0;
   }
   /*====================================================
@@ -721,7 +720,7 @@ body{
     background-image: url("webroot/modern_theme/build/img/backgroundCover.jpg") !important;
   }
   .btn{
-    background-color: #016d79 !important;
+    background-color: #c50000 !important;
     border-radius: 15px;
     transition: all 0.3s ease-in-out
   }
@@ -729,8 +728,8 @@ body{
     background-color: transparent !important;
   }
   .header-nightsky .btn-primary:hover{
-    background-color: #016d79 !important;
-    border: 1px solid #016d79;
+    background-color: #c50000 !important;
+    border: 1px solid #c50000;
   }
   #contact img{
     display: none
@@ -757,8 +756,8 @@ body{
   }
   .what-wait .buttons .btn-success{
     color: #fff;
-    background-color: #016d79 !important;
-    border-color: #016d79 !important;
+    background-color: #c50000 !important;
+    border-color: #c50000 !important;
     margin: 15px;
     padding: 0 25px;
     font-weight: 500;
