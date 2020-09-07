@@ -13,7 +13,7 @@ $this->assign('content_title', get_option('site_name'));
 
 <!-- whats-app-->
 <div id="whats-app">
-    <a href="https://api.whatsapp.com/send?phone=905466820130&text=Gamerslinks.Com">
+    <a href="https://api.whatsapp.com/send?phone=905466820130&text=Share4Cash.Club">
         <img src="webroot/modern_theme/build/img/whatsapp.png" alt="Go Up">
     </a>
 </div>

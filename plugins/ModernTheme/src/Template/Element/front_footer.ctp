@@ -22,7 +22,7 @@
                     href="<?= build_main_domain_url('/'); ?>"><?= $logo['content'] ?></a> 
                 </div>
                 <div class="col-md-4 col-xs-12">
-                    <span class="right-reserved">All Rights reserved © 2020 Gamerslinks.Com </span>
+                    <span class="right-reserved">All Rights reserved © 2020 Share4Cash.Club </span>
                     <br> 
                     <p class="company-class">Edit by <a href="https://www.facebook.com/PovamiSoftware"> povami software </a> </p>
                 </div>

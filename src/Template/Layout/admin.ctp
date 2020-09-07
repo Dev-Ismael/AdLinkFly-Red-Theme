@@ -49,52 +49,52 @@
         font-family: 'Montserrat', sans-serif;
     }
     .skin-blue .main-header .navbar {
-        background-color: #016d79;
+        background-color: #c50000;
     }
     .skin-blue .main-header .logo {
-        background-color: #016d79;
+        background-color: #c50000;
     }
     .skin-blue .main-header .logo:hover{
-        background-color: #016d79;
+        background-color: #c50000;
     }
     .skin-blue .main-header .navbar .sidebar-toggle:hover {
-        background-color: #016d79;
+        background-color: #c50000;
     }
 
     a{
-        color: #016d79
+        color: #c50000
     }
     circle{
-        color: #016d79;
-        fill: #016d79;
+        color: #c50000;
+        fill: #c50000;
     }
     path {
         fill: none;
-        stroke: #016d79;
+        stroke: #c50000;
     }
     .morris-hover.morris-default-style .morris-hover-point {
-        color: #016d79 !important
+        color: #c50000 !important
     }
     a:active, a:focus, a:hover {
-        color: #016d79;
+        color: #c50000;
     }
     .box.box-primary {
-        border-top-color: #016d79;
+        border-top-color: #c50000;
     }
     .btn-primary {
-        background-color: #016d79;
-        border-color: #016d79;
+        background-color: #c50000;
+        border-color: #c50000;
     }
     .btn-primary:hover{
-        background-color: #016d79;
-        border-color: #016d79;
+        background-color: #c50000;
+        border-color: #c50000;
     }
     .skin-blue .main-header li.user-header {
-        background-color: #016d79;
+        background-color: #c50000;
     }
 
     .content .col-lg-3 .small-box{
-        background-color: #016d79 !important;
+        background-color: #c50000 !important;
         border-radius: 15px;
         box-shadow: 2px 2px 5px 5px #606060;
     }
@@ -104,17 +104,17 @@
     }
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
         color: #fff;
-        background: #016d7973;
+        background: #c5000073;
         border-left-color: #3c8dbc;
     }
     .skin-blue .sidebar-menu>li>.treeview-menu {
         margin: 0 1px;
-        background: #016d7945;
+        background: #c5000045;
     }
 
     .btn-github, .btn-github:hover {
         color: #fff;
-        background-color: #016d79;
+        background-color: #c50000;
         border-color: rgba(0,0,0,.2);
     }
     /* ================================================
@@ -200,11 +200,11 @@
         /* border-left-color: #3c8dbc; */
     }
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a{
-        color: #016d79;
+        color: #c50000;
 
     }
     .skin-blue .main-header .navbar {
-        background-color: #016d79;
+        background-color: #c50000;
     }
     .skin-blue .main-header .logo {
         background-color: #7ddde9;
@@ -269,7 +269,7 @@
     padding: 5px 0px;
 }
 .skin-blue .main-header .logo {
-    background-color: #016d79;
+    background-color: #c50000;
 }
 .navbar-custom-menu .dropdown.user.user-menu{
     display: 
@@ -281,7 +281,7 @@
     text-align: center;
 }
 .balance-link:hover{
-    background-color: #016d79;
+    background-color: #c50000;
 }
 .balance-link span{
     display: block;
@@ -296,10 +296,10 @@
 
 }
 .navbar-custom-menu>.navbar-nav>li a:hover{
-    background-color: #016d79 !important 
+    background-color: #c50000 !important 
 }
 .nav-item.mr-4.d-none.d-lg-block a:hover{
-    background-color: #016d79 !important 
+    background-color: #c50000 !important 
 }
 .content-header>h1{
     font-family: 'Montserrat', sans-serif;
@@ -355,7 +355,7 @@
             </span>
             <!-- logo for regular state and mobile devices -->
             <span class="logo-lg">
-                GamersLinks.Com
+                Share4Cash.Club
             </span>
         </a>
 
@@ -689,7 +689,7 @@
 
         <!-- whats-app-->
         <div id="whats-app">
-            <a href="https://api.whatsapp.com/send?phone=905466820130&text=Gamerslinks.Com">
+            <a href="https://api.whatsapp.com/send?phone=905466820130&text=Share4Cash.Club">
                 <img src="../webroot/modern_theme/build/img/whatsapp.png" alt="Go Up">
             </a>
         </div>

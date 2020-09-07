@@ -1,7 +1,7 @@
 <?php
 return [
     'Security' => [
-        'salt' => 'VBhWN5Uxa9XqvrtCLHwHva8OGXd6ZgCGIepMqu4kEybi1TWKLh',
+        'salt' => '4A1QOrQxmPrUlKCdhvallsbY0sLoRYIfiIumnFjG9jF2xpNuhZ',
     ],
     /**
      * Connection information used by the ORM to connect
@@ -18,7 +18,7 @@ return [
             'port' => '3306',
             'username' => 'root',
             'password' => '',
-            'database' => 'adlinkflyv2',
+            'database' => 'adlinkfly',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'flags' => [],
