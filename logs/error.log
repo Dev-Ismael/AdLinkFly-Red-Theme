@@ -1,0 +1,54 @@
+2019-12-23 19:08:02 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Cache\Engine\FileEngine.php, line 395]
+
+
+2019-12-23 19:08:03 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Core\App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\View\View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\View\View.php(1283): Cake\View\View->_paths(NULL)
+#3 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\View\View.php(768): Cake\View\View->_getViewFileName('Error\\error500')
+#4 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('error500')
+#7 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(138): Cake\Error\ExceptionRenderer->render()
+#8 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(187): Cake\Error\ErrorHandler->_displayException(Object(Cake\Error\FatalErrorException))
+#9 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(225): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Error\FatalErrorException))
+#10 C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(104): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 395)
+#11 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#12 {main} in [C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2020-01-07 23:20:31 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\src\Template\Element\js_vars.ctp, line 6]
+
+
+2020-01-07 23:20:32 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\src\Template\Element\js_vars.ctp on line 6
+Request URL: /webroot/modern_theme/build/css/owl.theme.default.min.css
+Referer URL: http://localhost/AdLinkFlyV2/
+2020-01-07 23:21:36 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\View\View.php, line 1377]
+
+
+2020-01-07 23:21:37 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\View\View.php on line 1377
+Request URL: /
+2020-01-11 17:29:49 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Network\Session.php, line 335]
+
+
+2020-01-11 17:29:50 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Network\Session.php on line 335
+Request URL: /webroot/modern_theme/build/js/owl.carousel.min.js
+Referer URL: http://localhost/AdLinkFlyV2/
+2020-01-11 17:29:50 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Network\Session.php, line 335]
+
+
+2020-01-11 17:29:50 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Network\Session.php on line 335
+Request URL: /webroot/modern_theme/build/css/owl.carousel.min.css
+Referer URL: http://localhost/AdLinkFlyV2/
+2020-01-11 17:29:50 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Network\Session.php, line 335]
+
+
+2020-01-11 17:29:50 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\vendor\cakephp\cakephp\src\Network\Session.php on line 335
+Request URL: /webroot/modern_theme/build/css/owl.theme.default.min.css
+Referer URL: http://localhost/AdLinkFlyV2/
+2020-01-12 19:33:31 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\AdLinkFlyV2\vendor\zendframework\zend-diactoros\src\Response\EmitterInterface.php, line 14]
+
+
+2020-01-12 19:33:32 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\vendor\zendframework\zend-diactoros\src\Response\EmitterInterface.php on line 14
+Request URL: /webroot/modern_theme/build/js/owl.carousel.min.js
+Referer URL: http://localhost/AdLinkFlyV2/advertising-rates
