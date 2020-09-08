@@ -31027,3 +31027,9 @@
 2020-09-07 16:17:36 Notice: Notice (8): compact(): Undefined variable: timeMatches in [C:\xampp\htdocs\AdLinkFly\vendor\cakephp\cakephp\src\Http\Response.php, line 1887]
 
 
+2020-09-08 12:32:39 Notice: Notice (8): compact(): Undefined variable: etagMatches in [C:\xampp\htdocs\AdLinkFly\vendor\cakephp\cakephp\src\Http\Response.php, line 1887]
+
+
+2020-09-08 12:32:39 Notice: Notice (8): compact(): Undefined variable: timeMatches in [C:\xampp\htdocs\AdLinkFly\vendor\cakephp\cakephp\src\Http\Response.php, line 1887]
+
+

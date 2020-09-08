@@ -52,3 +52,6 @@ Referer URL: http://localhost/AdLinkFlyV2/
 2020-01-12 19:33:32 Error: [Cake\Error\FatalErrorException] Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\AdLinkFlyV2\vendor\zendframework\zend-diactoros\src\Response\EmitterInterface.php on line 14
 Request URL: /webroot/modern_theme/build/js/owl.carousel.min.js
 Referer URL: http://localhost/AdLinkFlyV2/advertising-rates
+2020-09-08 12:32:41 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /auth/signin
+Referer URL: http://localhost/AdLinkFly/auth/signin
