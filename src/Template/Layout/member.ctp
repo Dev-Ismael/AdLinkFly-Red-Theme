@@ -138,9 +138,6 @@
         text-align: center;
         padding-top: 20px;
     }
-    .content .col-lg-3 .small-box p{
-
-    }
     .small-box h3{
         color: #696969;
         font-size: 26px;
@@ -272,9 +269,6 @@
 .skin-blue .main-header .logo {
     background-color: #c50000;
 }
-.navbar-custom-menu .dropdown.user.user-menu{
-    display: 
-}
 .balance-link{
     padding: 0px !important;
     margin: 0px !important;
@@ -304,6 +298,11 @@
 }
 .content-header>h1{
     font-family: 'Montserrat', sans-serif;
+}
+/*========= Mini LOGO ========*/
+span.logo-mini img{
+    width: 40px;
+    height: 40px;
 }
  /* ====================================================================
   |   |   |   |   |   |   |   whats-app
@@ -352,7 +351,7 @@
         <a href="<?= $this->Url->build('/'); ?>" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini">
-                <img src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.15752-9/90551365_863338637427173_7325039682213904384_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=EjOmNL-UpZgAX_RjcTE&_nc_ht=scontent-mrs2-2.xx&oh=91d1aa285e316ca10cccd55b743a4e4b&oe=5E9DC766" alt="">
+                <img src="https://banner2.cleanpng.com/20180730/vag/kisspng-money-bag-bank-computer-icons-money-ico-5b5e906354d3a2.7822125115329240033475.jpg" alt="">
             </span>
             <!-- logo for regular state and mobile devices -->
             <span class="logo-lg">
@@ -657,7 +656,7 @@
 
         <!-- whats-app-->
         <div id="whats-app">
-            <a href="https://api.whatsapp.com/send?phone=905466820130&text=Share4Cash.Club">
+            <a href="https://api.whatsapp.com/send?phone=201022569948">
                 <img src="../webroot/modern_theme/build/img/whatsapp.png" alt="Go Up">
             </a>
         </div>

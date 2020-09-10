@@ -218,6 +218,7 @@ body{
       margin-left: -20px;
       height: 4rem;
       transition: all 0.3s ease-in-out;
+      width: 7rem;
   }
   @media (min-width: 768px){
     .navbar-default.affix {
@@ -823,7 +824,7 @@ footer .copyright-container{
   background-color: #fff
 }
 .copyright-container .brand img{
-  width: 15rem;
+  width: 9rem;
 }
 @media(max-width: 992px){
   .copyright-container .brand a {
