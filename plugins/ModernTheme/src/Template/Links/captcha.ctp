@@ -98,8 +98,8 @@ $this->assign('og_image', $link->image);
 
 <div class="top-info"> 
     <div>
-        <h4>What is Share4Cash.Club ?</h4>
-        <p>Share4Cash.Club is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links. Register now!</p>
+        <h4>What is SHORTENFORYOU.COM ?</h4>
+        <p>SHORTENFORYOU.COM is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links. Register now!</p>
     </div>
     <div>
         <h4>Why I'm in this page ?</h4>

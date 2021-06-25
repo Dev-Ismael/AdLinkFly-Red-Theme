@@ -84,7 +84,7 @@
         .login-box-body, .register-box-body {
             background: transparent !important;
             width: 90%;
-            border-right: 3px solid #c50000;
+            border-right: 3px solid #4EADAF;
             padding-right: 50px;
         }
         .btn.btn-flat {
@@ -102,7 +102,7 @@
             margin-top: 40px
         }
         .btn.btn-flat:hover{
-            background-color: #c50000;
+            background-color: #4EADAF;
             outline: none;
             border: none
         }
@@ -132,7 +132,7 @@
             text-decoration: underline
         }
         .login-logo a{
-            color: #c50000 !important;
+            color: #4EADAF !important;
             text-decoration: none
         }
         p {
@@ -199,7 +199,7 @@
         left: calc(50% - 24px);
         width: 48px;
         height: 13px;
-        background-color: #554842;
+        background-color: #4EADAF;
         bottom: -13px;
         border-bottom-right-radius: 60%;
         border-bottom-left-radius: 60%;
@@ -209,7 +209,7 @@
         width: 40px;
         height: 40px;
         border-radius: 100%;
-        background-color: #c50000;
+        background-color: #4EADAF;
         left: calc(50% - 25px);
         top: 40px;
         border: 5px solid #b4b2b2;
@@ -219,7 +219,7 @@
         z-index: -100;
         height: 55px;
         width: 50px;
-        background-color: #c50000;
+        background-color: #4EADAF;
         }
         .rocket .fin-left {
         left: -30px;
@@ -461,7 +461,7 @@
         left: calc(50% - 24px);
         width: 48px;
         height: 13px;
-        background-color: #554842;
+        background-color: #4EADAF;
         bottom: -13px;
         border-bottom-right-radius: 60%;
         border-bottom-left-radius: 60%;
@@ -471,7 +471,7 @@
         width: 40px;
         height: 40px;
         border-radius: 100%;
-        background-color: #c50000;
+        background-color: #4EADAF;
         left: calc(50% - 25px);
         top: 40px;
         border: 5px solid #b4b2b2;
@@ -481,7 +481,7 @@
         z-index: -100;
         height: 55px;
         width: 50px;
-        background-color: #c50000;
+        background-color: #4EADAF;
         }
         .rocket .fin-left {
         left: -30px;

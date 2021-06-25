@@ -22,9 +22,7 @@
                     href="<?= build_main_domain_url('/'); ?>"><?= $logo['content'] ?></a> 
                 </div>
                 <div class="col-md-4 col-xs-12">
-                    <span class="right-reserved">All Rights reserved © 2020 Share4Cash.Club </span>
-                    <br> 
-                    <p class="company-class">Edit by <a href="https://www.facebook.com/PovamiSoftware"> povami software </a> </p>
+                    <span class="right-reserved">All Rights reserved © 2020 SHORTENFORYOU.COM </span>
                 </div>
                 <div class="menu col-md-5 col-xs-12">
                     <ul class="list-inline d-flex justify-content-center justify-content-md-end quicklinks m-0">

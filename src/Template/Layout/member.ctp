@@ -50,52 +50,52 @@
         font-family: 'Montserrat', sans-serif;
     }
     .skin-blue .main-header .navbar {
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
     .skin-blue .main-header .logo {
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
     .skin-blue .main-header .logo:hover{
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
     .skin-blue .main-header .navbar .sidebar-toggle:hover {
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
 
     a{
-        color: #c50000
+        color: #4EADAF
     }
     circle{
-        color: #c50000;
-        fill: #c50000;
+        color: #4EADAF;
+        fill: #4EADAF;
     }
     path {
         fill: none;
-        stroke: #c50000;
+        stroke: #4EADAF;
     }
     .morris-hover.morris-default-style .morris-hover-point {
-        color: #c50000 !important
+        color: #4EADAF !important
     }
     a:active, a:focus, a:hover {
-        color: #c50000;
+        color: #4EADAF;
     }
     .box.box-primary {
-        border-top-color: #c50000;
+        border-top-color: #4EADAF;
     }
     .btn-primary {
-        background-color: #c50000;
-        border-color: #c50000;
+        background-color: #4EADAF;
+        border-color: #4EADAF;
     }
     .btn-primary:hover{
-        background-color: #c50000;
-        border-color: #c50000;
+        background-color: #4EADAF;
+        border-color: #4EADAF;
     }
     .skin-blue .main-header li.user-header {
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
 
     .content .col-lg-3 .small-box{
-        background-color: #c50000 !important;
+        background-color: #4EADAF !important;
         border-radius: 15px;
         box-shadow: 2px 2px 5px 5px #606060;
     }
@@ -105,17 +105,17 @@
     }
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
         color: #fff;
-        background: #c5000073;
-        border-left-color: #c50000;
+        background: #4EADAF73;
+        border-left-color: #4EADAF;
     }
     .skin-blue .sidebar-menu>li>.treeview-menu {
         margin: 0 1px;
-        background: #c5000045;
+        background: #4EADAF45;
     }
 
     .btn-github, .btn-github:hover {
         color: #fff;
-        background-color: #c50000;
+        background-color: #4EADAF;
         border-color: rgba(0,0,0,.2);
     }
     /* ================================================
@@ -195,21 +195,21 @@
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
         color: #404040;
         background: #ffffff73;
-        /* border-left-color: #c50000; */
+        /* border-left-color: #4EADAF; */
     }
     .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a{
-        color: #c50000;
+        color: #4EADAF;
 
     }
     .skin-blue .main-header .navbar {
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
     .skin-blue .main-header .logo {
-        background-color: #c50000;
+        background-color: #4EADAF;
     }
     .btn-github, .btn-github:hover {
         color: #fff;
-        background-color: #c50000;
+        background-color: #4EADAF;
         border-color: rgba(0,0,0,.2);
     }
     .skin-blue .sidebar-menu>li>.treeview-menu {
@@ -256,6 +256,9 @@
         width: 15rem;
     }
 }
+.main-header .logo .logo-lg{
+    font-size: 12px
+}
 .main-header .sidebar-toggle:before {
     content: "";
 }
@@ -267,7 +270,7 @@
     padding: 5px 0px;
 }
 .skin-blue .main-header .logo {
-    background-color: #c50000;
+    background-color: #4EADAF;
 }
 .balance-link{
     padding: 0px !important;
@@ -276,7 +279,7 @@
     text-align: center;
 }
 .balance-link:hover{
-    background-color: #c50000;
+    background-color: #4EADAF;
 }
 .balance-link span{
     display: block;
@@ -291,10 +294,10 @@
 
 }
 .navbar-custom-menu>.navbar-nav>li a:hover{
-    background-color: #c50000 !important 
+    background-color: #4EADAF !important 
 }
 .nav-item.mr-4.d-none.d-lg-block a:hover{
-    background-color: #c50000 !important 
+    background-color: #4EADAF !important 
 }
 .content-header>h1{
     font-family: 'Montserrat', sans-serif;
@@ -351,11 +354,11 @@ span.logo-mini img{
         <a href="<?= $this->Url->build('/'); ?>" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini">
-                <img src="https://banner2.cleanpng.com/20180730/vag/kisspng-money-bag-bank-computer-icons-money-ico-5b5e906354d3a2.7822125115329240033475.jpg" alt="">
+                <img src="https://i.ibb.co/tprwdN9/201229477-844442066448545-607551179543995696-n.jpg" alt="">
             </span>
             <!-- logo for regular state and mobile devices -->
             <span class="logo-lg">
-                Share4Cash.Club
+                SHORTENFORYOU.COM
             </span>
         </a>
 
@@ -656,7 +659,7 @@ span.logo-mini img{
 
         <!-- whats-app-->
         <div id="whats-app">
-            <a href="https://api.whatsapp.com/send?phone=201022569948">
+            <a href="https://api.whatsapp.com/send?phone=0604017805">
                 <img src="../webroot/modern_theme/build/img/whatsapp.png" alt="Go Up">
             </a>
         </div>

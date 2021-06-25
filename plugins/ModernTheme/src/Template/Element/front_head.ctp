@@ -6,7 +6,7 @@
 
 <?= $this->Assets->favicon() ?>
 
-<meta name="theme-color" content="#c50000" />
+<meta name="theme-color" content="#4EADAF" />
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -52,7 +52,7 @@ body{
     overflow-x: hidden
   }
   h1,h2,h3,h4{
-    color: #c50000 !important;
+    color: #4EADAF !important;
     padding-top: 20px;
     padding-bottom: 20px;
   }
@@ -60,7 +60,7 @@ body{
   .content-title-underline {
     width: 30px;
     height: 3px;
-    background-color:  #c50000 !important;
+    background-color:  #4EADAF !important;
     margin: 0 auto;
     margin-bottom: 40px;
 }
@@ -122,7 +122,7 @@ body{
     transition: all 0.35s;
   }
   .navbar-default .navbar-header .navbar-brand {
-    color: #c50000;
+    color: #4EADAF;
     font-weight: 700;
     text-transform: uppercase;
   }
@@ -133,7 +133,7 @@ body{
   .navbar-default .navbar-header .navbar-toggle {
 
     text-transform: uppercase;
-    background-color: #c50000;
+    background-color: #4EADAF;
     border-radius: 20px;
     padding: 10px 15px;
   }
@@ -146,11 +146,11 @@ body{
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
-    color: #c50000;
+    color: #4EADAF;
   }
   .navbar-default .nav > li.active > a,
   .navbar-default .nav > li.active > a:focus {
-    color: #c50000 !important;
+    color: #4EADAF !important;
     background-color: transparent;
   }
   .navbar-default .nav > li.active > a:hover,
@@ -185,7 +185,7 @@ body{
       border-color: rgba(34, 34, 34, 0.05);
     }
     .navbar-default.affix .navbar-header .navbar-brand {
-      color: #c50000;
+      color: #4EADAF;
       font-size: 14px;
     }
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -198,12 +198,12 @@ body{
     }
     .navbar-default.affix .nav > li > a:hover,
     .navbar-default.affix .nav > li > a:focus:hover {
-      color: #c50000;
+      color: #4EADAF;
     }
   }
   @media (min-width: 768px){   
       .navbar-default.affix .navbar-header .navbar-brand {
-          color: #c50000;
+          color: #4EADAF;
           font-size: 20px;
       }
   }
@@ -235,7 +235,7 @@ body{
   @media (max-width: 768px){
 
     #mainNav{
-      background-color: #c50000;
+      background-color: #4EADAF;
     }
     .navbar-default{
       border: none;
@@ -268,7 +268,7 @@ body{
     border-radius: 20px;
   }
   .affix .navbar-nav>li:nth-of-type(4) a{
-    background-color: #c50000;
+    background-color: #4EADAF;
     padding: 10px 20px;
     margin-top: 10px;
     color: #fff;
@@ -300,7 +300,7 @@ body{
       }
       .affix .navbar-nav>li:nth-of-type(4) a,
       .affix-top .navbar-nav>li:nth-of-type(4) a{
-        background-color: #c50000;
+        background-color: #4EADAF;
         color: #fff;
       }
 
@@ -492,7 +492,7 @@ body{
     font-weight: 600 !important;
     line-height: 42px !important;
     width: 164.41px !important;
-    background-color: #c50000 !important;
+    background-color: #4EADAF !important;
     }
     .shorten #shorten button:hover{
       opacity: 1;
@@ -608,7 +608,7 @@ body{
     color: #fff;
     text-align: center;
     border-radius: 50%;
-    background-color: #c50000 ;
+    background-color: #4EADAF ;
     font-size: 22px;
     line-height: 22px;
     padding: 4px 15px;
@@ -704,7 +704,7 @@ body{
     background-color: rgb(255, 255, 255) !important
   }
   a, a.active, a:active, a:focus, a:hover {
-    color: #c50000;
+    color: #4EADAF;
     outline: 0;
   }
   /*====================================================
@@ -721,7 +721,7 @@ body{
     background-image: url("webroot/modern_theme/build/img/backgroundCover.jpg") !important;
   }
   .btn{
-    background-color: #c50000 !important;
+    background-color: #4EADAF !important;
     border-radius: 15px;
     transition: all 0.3s ease-in-out
   }
@@ -729,8 +729,8 @@ body{
     background-color: transparent !important;
   }
   .header-nightsky .btn-primary:hover{
-    background-color: #c50000 !important;
-    border: 1px solid #c50000;
+    background-color: #4EADAF !important;
+    border: 1px solid #4EADAF;
   }
   #contact img{
     display: none
@@ -757,8 +757,8 @@ body{
   }
   .what-wait .buttons .btn-success{
     color: #fff;
-    background-color: #c50000 !important;
-    border-color: #c50000 !important;
+    background-color: #4EADAF !important;
+    border-color: #4EADAF !important;
     margin: 15px;
     padding: 0 25px;
     font-weight: 500;
@@ -838,10 +838,10 @@ footer .copyright-container{
 }
 .copyright-container .right-reserved {
   font-weight: 900;
-    font-size: 16px;
+    font-size: 13px;
     position: relative;
     color: #000;
-    line-height: 60px;
+    line-height: 75px;
 }
 .company-class{
   font-size: 12px !important; 

@@ -70,7 +70,7 @@ $this->assign('content_title', $page->title);
         background-color: #fff;
         border: 1px solid #ddd;
         border-bottom-color: transparent;
-        background-color: #c50000;
+        background-color: #4EADAF;
         border-radius: 15px;
         margin: 10px 0px;
         border: none;
@@ -109,7 +109,7 @@ $this->assign('content_title', $page->title);
     top: 45px;
     left: 100px;
     font-weight: bolder;
-    color: #c50000;
+    color: #4EADAF;
   }
   .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
       position: relative;

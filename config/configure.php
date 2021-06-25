@@ -1,7 +1,7 @@
 <?php
 return [
     'Security' => [
-        'salt' => '4A1QOrQxmPrUlKCdhvallsbY0sLoRYIfiIumnFjG9jF2xpNuhZ',
+        'salt' => 'btHPZDcbTueto70E6AAjjGeH7uGRp3L4nJRE9ZfvQpSa2sRpd2',
     ],
     /**
      * Connection information used by the ORM to connect
