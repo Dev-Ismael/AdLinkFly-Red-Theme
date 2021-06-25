@@ -507,7 +507,8 @@ body{
     header .intro-text h2{
       font-family: cursive;
       color: #fff !important;
-      margin-top: -35px
+      margin-top: -35px;
+      font-weight: 100
     }
     @media (max-width:767px){
       .shorten #shorten input.input-lg {

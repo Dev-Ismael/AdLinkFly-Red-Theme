@@ -712,9 +712,7 @@ span.logo-mini img{
     <!-- Main Footer -->
     <footer class="main-footer">
         <!-- To the right -->
-        <div class="pull-right hidden-xs">
-            <?= __('Version') ?> <?= APP_VERSION ?>
-        </div>
+        
         <!-- Default to the left -->
         <?= __('Copyright &copy;') ?> <?= h(get_option('site_name')) ?> <?= date("Y") ?>
     </footer>

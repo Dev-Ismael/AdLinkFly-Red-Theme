@@ -138,7 +138,7 @@ $this->assign('content_title', $page->title);
     #services .container > ul:nth-of-type(2),
     #services .container > p
     {
-        display: none;
+        /* display: none; */
     }
     @media(max-width:768px ){
         #services tr td{
