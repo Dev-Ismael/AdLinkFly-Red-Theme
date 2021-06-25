@@ -499,6 +499,13 @@ body{
       box-shadow: 0px 0px 0px 0px #000 !important;
     }
     header .intro-text h1{
+      font-family: cursive;
+      font-size: 55px;
+      color: #fff !important;
+      margin-top: -35px
+    }
+    header .intro-text h2{
+      font-family: cursive;
       color: #fff !important;
       margin-top: -35px
     }

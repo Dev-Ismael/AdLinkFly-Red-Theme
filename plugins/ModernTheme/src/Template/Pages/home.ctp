@@ -26,8 +26,8 @@ $this->assign('content_title', get_option('site_name'));
     <div class="container">
         <div class="intro-text">
 
-            <h1 class="custom-animation-bottom"> ShortenForYou.Com </h1>
-            <h1 class="custom-animation-left"> YOU CAN EARN MONEY... </h1>
+            <h1 class="custom-animation-bottom"> Shorten For You </h1>
+            <h2 class="custom-animation-left"> Start Earn Money... </h2>
             <div class="row custom-animation-top">
                 <div class="col-sm-8 col-sm-offset-2">
                     <?php if (get_option('home_shortening') == 'yes') : ?>
@@ -165,7 +165,7 @@ $this->assign('content_title', get_option('site_name'));
                     <div class="caption">
                         <div class="caption-inner">
                             <h3><span>4</span> &nbsp; Make More Money</h3>
-                            <p> Whether you're looking to make some fast cash, or you're after long-term, more sustainable income-producing results, there are  shorter-Link by this site  you can make money online today. The truth is that making money online isn't as difficult as most make it out to seem. It does require some discipline.   </p>    
+                            <p> Whether you want to make some money quickly or want to guarantee your income for a longer period, users are paid every Friday and the minimum withdrawal limit is 5 Dollar </p>    
                         </div>
                     </div>
                 </div>
