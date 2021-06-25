@@ -1,11 +1,10 @@
 <footer>
     <div class="payments col-md-12 text-center" >
         <img src="webroot/modern_theme/build/img/paymoent-icons/paypal.png" height="120" alt="" /> 
-        <img src="webroot/modern_theme/build/img/paymoent-icons/bitcoin.png" height="120" alt="" /> 
         <img src="webroot/modern_theme/build/img/paymoent-icons/payeer.png" height="120" alt="" /> 
+        <img src="webroot/modern_theme/build/img/paymoent-icons/payoneer.png" height="120" alt="" /> 
         <img src="webroot/modern_theme/build/img/paymoent-icons/skrill.png" height="120" alt="" /> 
-        <img src="webroot/modern_theme/build/img/paymoent-icons/western.png" height="120" alt="" /> 
-        <img src="webroot/modern_theme/build/img/paymoent-icons/Vodafone-Cash.png" height="120" alt="" /> 
+        <img src="webroot/modern_theme/build/img/paymoent-icons/ethereum.png" height="120" alt="" /> 
     </div>
     <div class="copyright-container">
         <div class="container text-center">
