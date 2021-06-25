@@ -151,6 +151,7 @@ $(function () {
 ===================================================================== */
 $(function () {
     $(window).scroll(function() {
+        
         if ($(window).scrollTop() > 50) {
             $(".navbar").css("box-shadow" , "0px 1px 10px 1px #7d7d7d");
             $(".navbar-brand.logo-image img").css("height" , "4rem");

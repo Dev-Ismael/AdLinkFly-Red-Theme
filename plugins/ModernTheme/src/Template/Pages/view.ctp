@@ -6,6 +6,15 @@ $this->assign('content_title', $page->title);
 ?>
 
 <style>
+      /* ====================================================================
+  |   |   |   |   |   |   |   Navbar
+  ===================================================================== */
+  .navbar-default.affix{
+      
+    box-shadow: rgb(125 125 125) 0px 1px 10px 1px;
+    background-color: rgb(255, 255, 255);
+  }
+
   /* ====================================================================
   |   |   |   |   |   |   |   custom slope
   ===================================================================== */
@@ -28,21 +37,34 @@ $this->assign('content_title', $page->title);
   |   |   |   |   |   |   |   Header
   ===================================================================== */
   header{
-      height: 450px !important;
+      height: 250px !important;
+      /* margin-top: -150px !important; */
   }
   .inner-page header .intro-lead-in {
     margin-top: 70px;
+    margin-bottom: 0px;
+    color: #000 !important;
+    font-size: 25px;
   }
+
   @media (min-width: 768px){
+    header .intro-text{
+        padding: 0px !important;
+        padding-top: 5rem !important;
+    }
     .inner-page header .intro-lead-in {
-        font-size: 30px !important;
-        line-height: 43px ;
+        /* font-size: 30px !important; */
+        /* line-height: 43px ; */
         margin-bottom: 0;
-        position: absolute;
-        top: 100px;
-        left: 15%;
+        font-size: 45px;
+        /* position: absolute; */
+        /* top: 100px; */
+        /* left: 15%; */
+        color: #000 !important;
+
     }
   }
+
       /* ====================================================================
   |   |   |   |   |   |   |   custom-boxes
   ===================================================================== */
@@ -246,3 +268,23 @@ $this->assign('content_title', $page->title);
         </ul>
     </div>
 </div>
+
+<script type="text/javascript">
+/* ====================================================================
+|   |   |   |   |   |   |   change img at scroll
+===================================================================== */
+$(function () {
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > 10) {
+            $(".navbar").css("box-shadow" , "0px 1px 10px 1px #7d7d7d");
+            $(".navbar-brand.logo-image img").css("height" , "4rem");
+            $("#mainNav").css("background-color" , "#fff");
+        } else {
+            $(".navbar").css("box-shadow" , "none");
+            $(".navbar-brand.logo-image img").css("height" , "5rem");
+            $("#mainNav").css("background-color" , "transparent");
+        }
+    });
+
+});    
+</script>

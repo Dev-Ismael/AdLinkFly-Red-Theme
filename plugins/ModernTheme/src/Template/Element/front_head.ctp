@@ -453,7 +453,7 @@ body{
       max-width: 6600px
   }
   header.shorten{
-    height: 700px;
+    height: 100vh;
   }
   .shorten #shorten input.input-lg{
 
