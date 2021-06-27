@@ -171,8 +171,6 @@ $statuses = [
                     <td><?= display_date_timezone($user->modified); ?></td>
                     <td><?= display_date_timezone($user->created); ?></td>
                     <td>
-                        <?= $this->Html->link(__('Message'), ['action' => 'message', $user->id],
-                            ['class' => 'btn btn-default btn-xs']); ?>
 
                         <?php if ($user->status === 2) : ?>
                             <?= $this->Form->postLink(__('Resend Activation Email'),

@@ -70,7 +70,7 @@ $this->assign('content_title', $page->title);
   ===================================================================== */
   .custom-boxes{
       display: none;
-      margin-top: -200px;
+      margin-top: -140px;
       z-index: 9999999;
   }
   .custom-boxes .box-inner{

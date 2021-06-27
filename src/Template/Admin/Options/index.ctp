@@ -1243,22 +1243,7 @@ $this->assign('content_title', __('Settings'));
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-sm-2"><?= __('Enable Account Activation by Email') ?></div>
-                <div class="col-sm-10">
-                    <?=
-                    $this->Form->input('Options.' . $settings['account_activate_email']['id'] . '.value', [
-                        'label' => false,
-                        'options' => [
-                            'yes' => __('Yes'),
-                            'no' => __('No')
-                        ],
-                        'value' => $settings['account_activate_email']['value'],
-                        'class' => 'form-control'
-                    ]);
-                    ?>
-                </div>
-            </div>
+
 
             <div class="row">
                 <div class="col-sm-2"><?= __('Reserved Usernames') ?></div>
@@ -1738,39 +1723,9 @@ $this->assign('content_title', __('Settings'));
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-sm-2"><?= __('Enable on Forgot Password Form') ?></div>
-                <div class="col-sm-10">
-                    <?=
-                    $this->Form->input('Options.' . $settings['enable_captcha_forgot_password']['id'] . '.value', [
-                        'label' => false,
-                        'options' => [
-                            'yes' => __('Yes'),
-                            'no' => __('No')
-                        ],
-                        'value' => $settings['enable_captcha_forgot_password']['value'],
-                        'class' => 'form-control'
-                    ]);
-                    ?>
-                </div>
-            </div>
+           
 
-            <div class="row">
-                <div class="col-sm-2"><?= __('Enable on Contact Form') ?></div>
-                <div class="col-sm-10">
-                    <?=
-                    $this->Form->input('Options.' . $settings['enable_captcha_contact']['id'] . '.value', [
-                        'label' => false,
-                        'options' => [
-                            'yes' => __('Yes'),
-                            'no' => __('No')
-                        ],
-                        'value' => $settings['enable_captcha_contact']['value'],
-                        'class' => 'form-control'
-                    ]);
-                    ?>
-                </div>
-            </div>
+            
 
         </div>
 

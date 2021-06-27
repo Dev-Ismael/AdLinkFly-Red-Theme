@@ -655,7 +655,7 @@ span.logo-mini img{
                                 'controller' => 'Options',
                                 'action' => 'index'
                             ]); ?>"><?= __('Settings') ?></a></li>
-                        <li><a href="<?php echo $this->Url->build([
+                        <li class="hidden"><a href="<?php echo $this->Url->build([
                                 'controller' => 'Options',
                                 'action' => 'email'
                             ]); ?>"><?= __('Email') ?></a></li>
